@@ -21,6 +21,9 @@ body {
   padding: 0;
 }
 
+.country{
+  list-style: none;
+}
 
 #input{
   width: 72%;
